@@ -1,0 +1,17 @@
+{ 
+  "name": "", 
+  "version": "0.0.1",
+  "description": "Rebecca Black related functionality", 
+  "keywords": ["Rebecca","Rebecca Black","Friday","Seat"], 
+  "homepage": "https://github.com/jdjdgreen/rebeccablack", 
+  "author": "Jan-Karl Driscoll & Steve Kaliski", 
+  "repository": { 
+    "type": "git", 
+    "url": "http://github.com/jdjdgreen/rebeccablack.git"
+  }, 
+  "dependencies": {}, 
+  "engines": {
+    "node": ">=0.4.0"
+    }, 
+  "main": "./lib/rebeccablack"
+}
